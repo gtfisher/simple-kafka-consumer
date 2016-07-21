@@ -1,5 +1,7 @@
-package com.russmiles.antifragile;
+package com.russmiles.antifragile.api;
 
+
+import com.russmiles.antifragile.api.Command;
 
 public interface CommandProcessor {
 

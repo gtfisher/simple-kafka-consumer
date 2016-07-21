@@ -1,4 +1,5 @@
-package com.russmiles.antifragile;
+package com.russmiles.antifragile.api;
+
 
 
 public interface EventProcessor {
